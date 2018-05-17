@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CSCI3130-Demo</string>
+    <string name="TextField">tv1</string>
+    <string name="Input_Button">bt1</string>
 </resources>
